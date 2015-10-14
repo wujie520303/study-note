@@ -1,0 +1,48 @@
+系列一大纲:
+ ☐ 标识符
+ ☐ 变量
+   - 全局变量
+   - 局部变量
+ ☐ 数据类型
+   + 内建类型
+     - Array
+     - Date
+     - Error
+     - Function
+     - NaN
+     - Object
+     - RegExp
+   + 原始类型
+     - Undefined
+     - Null
+     - Boolean
+     - Number
+     - String
+   + 封装类型
+     - Boolean
+     - Number
+     - String
+   - 引用类型
+ ☐ 类型转换
+   + 转换函数
+     - Boolean()
+     - Number(),parseInt(),parseFloat()
+     - String()
+     - toString(), valueOf()
+   + 强制转换
+     - 算术运算符：-、+、/和%
+     - if、||和&&
+ ☐ 类型检测
+   - typeof
+   - instanceof
+   - Array.isArray
+   - isNaN
+
+ 变量:
+  ☐ 变量的声明（默认赋值undefined）、赋值，全局变量、局部变量
+  ☐ 隐含全局变量与真实变量的区别
+  ☐ 变量可以重复赋值
+  ☐ 意外定义一个全局变量的情况
+  ☐ for和if语句中的变量
+  ☐ 函数中变量声明提升
+  ☐ 多个变量声明
